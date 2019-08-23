@@ -1,0 +1,4 @@
+[console_scripts]
+csvdiff = csvdiff:csvdiff_cmd
+csvpatch = csvdiff:csvpatch_cmd
+

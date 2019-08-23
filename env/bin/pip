@@ -1,5 +1,4 @@
-#!/mnt/d/dev/fortnite/env/bin/python3
-
+#!/mnt/d/dev/fortnite/env/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
